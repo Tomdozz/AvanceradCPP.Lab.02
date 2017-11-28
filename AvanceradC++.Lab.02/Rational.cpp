@@ -1,12 +1,12 @@
-#include "Rational.h"
-
-
-
-Rational::Rational()
-{
-}
-
-
-Rational::~Rational()
-{
+//#include "Rational.h"
+//
+//
+//
+//Rational::Rational()
+//{
+//}
+//
+//
+//Rational::~Rational()
+//{
 }

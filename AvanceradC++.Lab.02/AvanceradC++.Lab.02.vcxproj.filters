@@ -24,16 +24,16 @@
     <ClInclude Include="targetver.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\Skola år 3\Anvanced Programming in C++\Labrationer\Labb 2\GCD.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="..\..\..\Skola år 3\Anvanced Programming in C++\Labrationer\Labb 2\RelOps.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="..\..\..\Skola år 3\Anvanced Programming in C++\Labrationer\Labb 2\VG.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
     <ClInclude Include="Rational.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="GCD.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="RelOps.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="VG.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
@@ -47,10 +47,16 @@
     <ClCompile Include="..\..\..\Skola år 3\Anvanced Programming in C++\Labrationer\Labb 2\Test_DLL.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\Skola år 3\Anvanced Programming in C++\Labrationer\Labb 2\RatTest.cpp">
+    <ClCompile Include="Rational.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Rational.cpp">
+    <ClCompile Include="GCD.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="RelOps.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="VG.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

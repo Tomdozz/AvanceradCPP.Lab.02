@@ -1,6 +1,5 @@
 #pragma once
 #include<iostream>
-#include"GCD.h"
 
 template<typename Tint>
 class Rational
